@@ -1,0 +1,2 @@
+D:\2019project\dnsTest\Debug\dnsTest.exe
+D:\2019project\dnsTest\Debug\dnsTest.pdb

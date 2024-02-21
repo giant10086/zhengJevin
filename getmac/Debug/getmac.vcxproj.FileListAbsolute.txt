@@ -1,0 +1,2 @@
+D:\2019project\getmac\Debug\getmac.exe
+D:\2019project\getmac\Debug\getmac.pdb
